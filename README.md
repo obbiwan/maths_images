@@ -6,3 +6,5 @@ they will produce a nice output image. For most of them however, the user can ov
 parameters to customise the output.
 
 For example usage, see *main.py*.
+
+For example plots, see *images*.
